@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.MuiAppBar-root {
+  background-color: #1976d2;
+}
+
+.MuiTypography-h4 {
+  color: #1976d2;
+  margin-top: 20px;
+}
+
+.MuiTypography-subtitle1 {
+  color: #555;
+  margin-bottom: 40px;
+}
+
+.MuiCard-root {
+  transition: transform 0.2s ease-in-out;
+}
+
+.MuiCard-root:hover {
+  transform: translateY(-5px);
+}

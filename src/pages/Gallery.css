@@ -1,0 +1,17 @@
+.gallery {
+  padding: 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.gallery h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.gallery-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}

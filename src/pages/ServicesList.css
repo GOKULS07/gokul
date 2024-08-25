@@ -1,0 +1,30 @@
+.services-list {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.category {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.category h2 {
+  font-size: 24px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.category ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.category ul li {
+  font-size: 18px;
+  padding: 5px 0;
+  border-bottom: 1px solid #eaeaea;
+}

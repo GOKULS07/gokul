@@ -1,0 +1,19 @@
+.contact-us {
+  padding: 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.contact-us h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.contact-details {
+  font-size: 18px;
+  color: #666;
+}
+
+.contact-details p {
+  margin: 10px 0;
+}

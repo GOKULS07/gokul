@@ -1,0 +1,17 @@
+.videos {
+  padding: 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.videos h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.video-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}

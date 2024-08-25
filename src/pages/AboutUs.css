@@ -1,0 +1,15 @@
+.about-us {
+  padding: 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.about-us h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.about-us p {
+  font-size: 18px;
+  color: #666;
+}
