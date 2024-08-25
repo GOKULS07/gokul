@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gokul/static/css/main.bc8b4561.css",
+    "main.js": "/gokul/static/js/main.98d2f2dd.js",
+    "index.html": "/gokul/index.html",
+    "main.bc8b4561.css.map": "/gokul/static/css/main.bc8b4561.css.map",
+    "main.98d2f2dd.js.map": "/gokul/static/js/main.98d2f2dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8b4561.css",
+    "static/js/main.98d2f2dd.js"
+  ]
+}
